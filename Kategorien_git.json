@@ -1,0 +1,16 @@
+{
+    "Supermarkt":["REWE","ALDI","Kaufland","ALNATURA","VORWERK PODEMUS","KONSUM","VG VERBRAUCHERGEM",
+                  "PAYPAL *LIDL SHOP","ZSCHABRAN","BIOWELT DRESDEN WEIssIG","EDEKA GUENL","EDEKA Wild","LIDL DIENSTLEISTUNG"],
+    "Drogerie":["DM FIL","ROSSMANN","PAYPAL *DM DROGERIE"],
+    "Amazon":["Amazon","AMZN Mktp","Prime Video","AMZNPrime"],
+    "Fernsehen":["Netflix","www.rundfunkbeitrag.de"],
+
+    "Baumarkt/Möbel":["IKEA","OBI SAGT DANKE","HOEFFNER","Klodeckel und sonstiges"
+                      ],
+    "Freizeit_Sonstiges":["ZOO Dresden GmbH"],
+    "Miete":["Immobilienkontor NordWest"],
+    "Kleidung":["Peek u Cloppenburg","DEICHMANN","APOLLO-OPTIK"],
+    "Apotheke":["APOTHEKE","Apotheke"],
+    "Einkaufen_Sonstiges":["GALERIA BEDANKT SICH","*THALIA.DE","Globetrotter","Thalia","DECATHLON","HUGENDUBEL","EBAY","Bottcher AG"],
+    "Post":["Shop der Deutschen Post","DEUTSCHE POST AG","Deutsche Post AG"]
+}
